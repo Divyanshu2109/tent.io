@@ -4,6 +4,10 @@ This repository hosts the Tent blog and documentation. Take a look at [the other
 
 ## Build
 
+learn html program 
+
+improve your sckill
+
 Compile:
 
     bundle exec middleman build
